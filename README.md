@@ -1,4 +1,4 @@
-##Hi there! 👋
+Hi there! 👋
 I'm Muhammad Daniel Akmal Zahri, an aspiring tech enthusiast and business innovator currently pursuing a degree in Information Technology and Business Management at UCTATI.
 
 💻 What I'm working on:
